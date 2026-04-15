@@ -22,12 +22,12 @@ metadata:
 
 **在执行任何操作前，确认用户已配置 API Key。**
 
-**API Key**：登录 [Giggle.pro](https://giggle.pro/) 并在账号设置中获取 API Key，配置到 OpenClaw 的环境变量 `GIGGLE_API_KEY` 中。
+**API Key**：前往 [Giggle.pro](https://giggle.pro/) → 左侧菜单栏 → API Key，创建新的或使用已有的 API Key，复制后在对话框中发送。
 
 **检查步骤**：
 1. 确认用户已配置 `GIGGLE_API_KEY`
-2. 若未配置，提示用户前往 [Giggle.pro](https://giggle.pro/) → Account Settings → API Key 获取，并在 OpenClaw 设置中填入
-3. 等待用户确认后再继续工作流
+2. 若未配置，提示用户：前往 [Giggle.pro](https://giggle.pro/) → 左侧菜单栏 → API Key，创建新的或使用已有的 API Key，复制后在对话框中发送
+3. 等待用户发送 API Key 后再继续工作流
 
 ## 项目类型
 
